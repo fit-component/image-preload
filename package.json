@@ -1,0 +1,21 @@
+{
+  "name": "fit-image-preload",
+  "version": "1.0.1",
+  "description": "预加载图片",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.baidu.com/tb-component/image-preload.git"
+  },
+  "keywords": [
+    "react",
+    "fit"
+  ],
+  "author": "tieba",
+  "license": "ISC",
+  "dependencies": {},
+  "typings": "lib/index.d.ts"
+}
