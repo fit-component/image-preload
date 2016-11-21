@@ -1,6 +1,6 @@
 {
   "name": "fit-image-preload",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "description": "预加载图片",
   "main": "lib/index.js",
   "scripts": {
